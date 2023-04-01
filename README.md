@@ -7,6 +7,8 @@ sqlite3の使い方
 sqlite3 　データベースフィル名　retest.sqls  上記　表示のように続けて入力する。
 
 
+
+
 SQLite version 3.27.2 2019-02-25 16:06:06
 Enter ".help" for usage hints.
 sqlite>
