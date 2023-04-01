@@ -37,9 +37,13 @@ sqlite>  SELECT * FROM test3;
 
 カラム名を表示させるのには　pragma　を使う　カラムとは 行列で表現される表の「列」
 sqlite> PRAGMA table_info('test3');
+
+
 0|id|int|0||1
 1|name|text|0||0
 2|date|int|0||0
+
+
 
 pragma　コマンドを　テーブル名を指定して入力
 
